@@ -3,13 +3,9 @@
 // --- Constantes para o tabuleiro ---
 
 #define TAMANHO_TABULEIRO 10
-
 #define TAMANHO_HABILIDADE 5
-
 #define AGUA 0
-
 #define NAVIO 3
-
 #define EFEITO 5
 
 
